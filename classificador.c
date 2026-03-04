@@ -13,7 +13,7 @@ Este é o seu artefato técnico. Ele utiliza a lógica de decisão encadeada par
 int main() {
     float numero;
 
-    printf("--- SISTEMA DE CLASSIFICACAO (Wesley) --- \n");
+    printf("--- SISTEMA DE CLASSIFICACAO --- \n");
     printf("Insira um valor numerico: ");
     
     // Leitura formatada
