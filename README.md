@@ -1,6 +1,6 @@
 # Projeto: Algoritmos e Programação Estruturada - Unidade 2
 
-## 👤 Estudante: Wesley (Senhor stone)
+## 👤 Estudante: Wesley
 
 ## 📝 Descrição
 Este repositório contém os artefatos digitais desenvolvidos durante a aula prática de laboratório. O foco principal é a implementação de **Estruturas Condicionais** (Simples, Compostas e Encadeadas) e **Seleção de Casos**.
